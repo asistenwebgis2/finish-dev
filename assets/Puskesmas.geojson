@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "Puskesmas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Moyudan", "y": -7.775755395, "x": 110.252736 }, "geometry": { "type": "Point", "coordinates": [ 110.252736, -7.775755395 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Minggir", "y": -7.721081284, "x": 110.238905 }, "geometry": { "type": "Point", "coordinates": [ 110.238905, -7.721081284 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Seyegan", "y": -7.719070388, "x": 110.3010315 }, "geometry": { "type": "Point", "coordinates": [ 110.3010315, -7.719070388 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Godean I", "y": -7.763885209, "x": 110.2917492 }, "geometry": { "type": "Point", "coordinates": [ 110.2917492, -7.763885209 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Godean II", "y": -7.776309902, "x": 110.3039206 }, "geometry": { "type": "Point", "coordinates": [ 110.3039206, -7.776309902 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Gamping 1", "y": -7.800486039, "x": 110.3201956 }, "geometry": { "type": "Point", "coordinates": [ 110.3201956, -7.800486039 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Gamping 2", "y": -7.782918069, "x": 110.3377516 }, "geometry": { "type": "Point", "coordinates": [ 110.3377516, -7.782918069 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Mlati I", "y": -7.75420329, "x": 110.3628457 }, "geometry": { "type": "Point", "coordinates": [ 110.3628457, -7.75420329 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Mlati 2", "y": -7.732695232, "x": 110.3283508 }, "geometry": { "type": "Point", "coordinates": [ 110.3283508, -7.732695232 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Depok I", "y": -7.774784345, "x": 110.4314281 }, "geometry": { "type": "Point", "coordinates": [ 110.4314281, -7.774784345 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Depok III", "y": -7.778007645, "x": 110.3895075 }, "geometry": { "type": "Point", "coordinates": [ 110.3895075, -7.778007645 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Depok II", "y": -7.756436575, "x": 110.4081291 }, "geometry": { "type": "Point", "coordinates": [ 110.4081291, -7.756436575 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Berbah", "y": -7.82017324, "x": 110.4301021 }, "geometry": { "type": "Point", "coordinates": [ 110.4301021, -7.82017324 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Prambanan", "y": -7.761641839, "x": 110.4894945 }, "geometry": { "type": "Point", "coordinates": [ 110.4894945, -7.761641839 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Kalasan", "y": -7.758289868, "x": 110.4493175 }, "geometry": { "type": "Point", "coordinates": [ 110.4493175, -7.758289868 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Ngemplak I", "y": -7.699474711, "x": 110.4654237 }, "geometry": { "type": "Point", "coordinates": [ 110.4654237, -7.699474711 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Ngemplak II", "y": -7.703030073, "x": 110.4446079 }, "geometry": { "type": "Point", "coordinates": [ 110.4446079, -7.703030073 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Ngaglik 2", "y": -7.689400518, "x": 110.3886459 }, "geometry": { "type": "Point", "coordinates": [ 110.3886459, -7.689400518 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Ngaglik 1", "y": -7.689528106, "x": 110.3886566 }, "geometry": { "type": "Point", "coordinates": [ 110.3886566, -7.689528106 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Sleman", "y": -7.701796972, "x": 110.3464651 }, "geometry": { "type": "Point", "coordinates": [ 110.3464651, -7.701796972 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Rawat Inap Sleman Nyaen", "y": -7.690809607, "x": 110.3686342 }, "geometry": { "type": "Point", "coordinates": [ 110.3686342, -7.690809607 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Tempel 1", "y": -7.658072858, "x": 110.3271357 }, "geometry": { "type": "Point", "coordinates": [ 110.3271357, -7.658072858 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Tempel 2", "y": -7.70058987, "x": 110.2880216 }, "geometry": { "type": "Point", "coordinates": [ 110.2880216, -7.70058987 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Turi", "y": -7.653759224, "x": 110.3797434 }, "geometry": { "type": "Point", "coordinates": [ 110.3797434, -7.653759224 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Pakem", "y": -7.659957961, "x": 110.421577 }, "geometry": { "type": "Point", "coordinates": [ 110.421577, -7.659957961 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puskesmas Cangkirangan", "y": -7.664682261, "x": 110.4564196 }, "geometry": { "type": "Point", "coordinates": [ 110.4564196, -7.664682261 ] } }
+]
+}

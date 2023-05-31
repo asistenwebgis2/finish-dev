@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Rumah Sakit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama_Rumah": "RSU Panti Baktiningsih", "koor_x": -7.754321344, "Koor_y": 110.2423594 }, "geometry": { "type": "Point", "coordinates": [ 110.2423594, -7.754321344 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RS At-Turots Al Islamy", "koor_x": -7.750278788, "Koor_y": 110.2938226 }, "geometry": { "type": "Point", "coordinates": [ 110.2938226, -7.750278788 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RSU Queen Latifa", "koor_x": -7.762435061, "Koor_y": 110.336771 }, "geometry": { "type": "Point", "coordinates": [ 110.336771, -7.762435061 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RSU Mitra Sehat", "koor_x": -7.808113048, "Koor_y": 110.2882048 }, "geometry": { "type": "Point", "coordinates": [ 110.2882048, -7.808113048 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RS PKU Muhammadiyah", "koor_x": -7.800172006, "Koor_y": 110.317764 }, "geometry": { "type": "Point", "coordinates": [ 110.317764, -7.800172006 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "Rumah Sakit Akademik UGM", "koor_x": -7.742711798, "Koor_y": 110.3504111 }, "geometry": { "type": "Point", "coordinates": [ 110.3504111, -7.742711798 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RSUP Dr. Sardjito", "koor_x": -7.768409008, "Koor_y": 110.3734527 }, "geometry": { "type": "Point", "coordinates": [ 110.3734527, -7.768409008 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "Rumah Sakit JIH", "koor_x": -7.75772506, "Koor_y": 110.4035109 }, "geometry": { "type": "Point", "coordinates": [ 110.4035109, -7.75772506 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RS Condong Catur", "koor_x": -7.754347843, "Koor_y": 110.4057454 }, "geometry": { "type": "Point", "coordinates": [ 110.4057454, -7.754347843 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RS Hermina Yogya", "koor_x": -7.770084103, "Koor_y": 110.4327511 }, "geometry": { "type": "Point", "coordinates": [ 110.4327511, -7.770084103 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RSUD Prambanan", "koor_x": -7.803734454, "Koor_y": 110.4832093 }, "geometry": { "type": "Point", "coordinates": [ 110.4832093, -7.803734454 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "Rs Asiyiyah Purworejo", "koor_x": -7.787904061, "Koor_y": 110.480451 }, "geometry": { "type": "Point", "coordinates": [ 110.480451, -7.787904061 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RS Panti Rini", "koor_x": -7.772032525, "Koor_y": 110.466748 }, "geometry": { "type": "Point", "coordinates": [ 110.466748, -7.772032525 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RS Islam Yogyakarta PDHI", "koor_x": -7.776501866, "Koor_y": 110.4590015 }, "geometry": { "type": "Point", "coordinates": [ 110.4590015, -7.776501866 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RS Mitra Paramedika", "koor_x": -7.713758522, "Koor_y": 110.4484025 }, "geometry": { "type": "Point", "coordinates": [ 110.4484025, -7.713758522 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RS Puri Husada", "koor_x": -7.705458845, "Koor_y": 110.3863449 }, "geometry": { "type": "Point", "coordinates": [ 110.3863449, -7.705458845 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RSUD Sleman", "koor_x": -7.68666604, "Koor_y": 110.3419408 }, "geometry": { "type": "Point", "coordinates": [ 110.3419408, -7.68666604 ] } },
+{ "type": "Feature", "properties": { "Nama_Rumah": "RS Panti Nugroho", "koor_x": -7.66869458, "Koor_y": 110.4171725 }, "geometry": { "type": "Point", "coordinates": [ 110.4171725, -7.66869458 ] } }
+]
+}
